@@ -1,4 +1,4 @@
-Final project for Making Decisions with AI, by Minh Pham
+Author: Minh Pham
 
 -------------------
 Project description
